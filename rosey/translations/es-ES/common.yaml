@@ -8,7 +8,6 @@ _inputs:
         - heading: Still to translate (es-ES)
           comment: Text to translate
           inputs:
-            - common:About
             - common:All-Articles
             - common:Blog
             - common:Contact
@@ -23,108 +22,109 @@ _inputs:
             - common:words
         - heading: Already translated (es-ES)
           comment: Text already translated
-          inputs: []
+          inputs:
+            - common:About
   common:About:
     label: About
     hidden: false
     type: text
     options: {}
-    comment: ''
+    comment: ""
     context: {}
   common:All-Articles:
     label: All Articles
     hidden: false
     type: text
     options: {}
-    comment: ''
+    comment: ""
     context: {}
   common:Blog:
     label: Blog
     hidden: false
     type: text
     options: {}
-    comment: ''
+    comment: ""
     context: {}
   common:Contact:
     label: Contact
     hidden: false
     type: text
     options: {}
-    comment: ''
+    comment: ""
     context: {}
   common:Features:
     label: Features
     hidden: false
     type: text
     options: {}
-    comment: ''
+    comment: ""
     context: {}
   common:Get-Started:
     label: Get Started
     hidden: false
     type: text
     options: {}
-    comment: ''
+    comment: ""
     context: {}
   common:Home:
     label: Home
     hidden: false
     type: text
     options: {}
-    comment: ''
+    comment: ""
     context: {}
   common:Marketing:
     label: Marketing
     hidden: false
     type: text
     options: {}
-    comment: ''
+    comment: ""
     context: {}
   common:Pricing:
     label: Pricing
     hidden: false
     type: text
     options: {}
-    comment: ''
+    comment: ""
     context: {}
   common:Technology:
     label: Technology
     hidden: false
     type: text
     options: {}
-    comment: ''
+    comment: ""
     context: {}
   common:minutes:
     label: minutes
     hidden: false
     type: text
     options: {}
-    comment: ''
+    comment: ""
     context: {}
   common:recent-blog:
     label: Recent Blog
     hidden: false
     type: text
     options: {}
-    comment: ''
+    comment: ""
     context: {}
   common:words:
     label: words
     hidden: false
     type: text
     options: {}
-    comment: ''
+    comment: ""
     context: {}
 common:About: ABOOOOOT
-common:All-Articles: ''
-common:Blog: ''
-common:Contact: ''
-common:Features: ''
-common:Get-Started: ''
-common:Home: ''
-common:Marketing: ''
-common:Pricing: ''
-common:Technology: ''
-common:minutes: ''
-common:recent-blog: ''
-common:words: ''
+common:All-Articles: ""
+common:Blog: ""
+common:Contact: ""
+common:Features: ""
+common:Get-Started: ""
+common:Home: ""
+common:Marketing: ""
+common:Pricing: ""
+common:Technology: ""
+common:minutes: ""
+common:recent-blog: ""
+common:words: ""
