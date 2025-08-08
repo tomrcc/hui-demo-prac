@@ -1,0 +1,17 @@
+_inputs:
+  $:
+    type: object
+    comment: "[blog/email-delivery-tips/](https://overt-summit.cloudvent.net/blog/e\
+      mail-delivery-tips/)"
+    options:
+      place_groups_below: false
+      groups:
+        - heading: Still to translate (es-ES)
+          comment: "[blog/email-delivery-tips/](https://overt-summit.cloudvent.net/blog/e\
+            mail-delivery-tips/)"
+          inputs: []
+        - heading: Already translated (es-ES)
+          comment: "[blog/email-delivery-tips/](https://overt-summit.cloudvent.net/blog/e\
+            mail-delivery-tips/)"
+          inputs: []
+urlTranslation: blog/email-delivery-tips/index.html

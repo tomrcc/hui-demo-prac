@@ -1,0 +1,17 @@
+_inputs:
+  $:
+    type: object
+    comment: "[blog/best-email-sending-services/](https://overt-summit.cloudvent.ne\
+      t/blog/best-email-sending-services/)"
+    options:
+      place_groups_below: false
+      groups:
+        - heading: Still to translate (es-ES)
+          comment: "[blog/best-email-sending-services/](https://overt-summit.cloudvent.ne\
+            t/blog/best-email-sending-services/)"
+          inputs: []
+        - heading: Already translated (es-ES)
+          comment: "[blog/best-email-sending-services/](https://overt-summit.cloudvent.ne\
+            t/blog/best-email-sending-services/)"
+          inputs: []
+urlTranslation: blog/best-email-sending-services/index.html

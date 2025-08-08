@@ -1,0 +1,16 @@
+_inputs:
+  $:
+    type: object
+    comment: "[tags/technology/](https://overt-summit.cloudvent.net/tags/technology/)"
+    options:
+      place_groups_below: false
+      groups:
+        - heading: Still to translate (es-ES)
+          comment: "[tags/technology/](https://overt-summit.cloudvent.net/tags/technology\
+            /)"
+          inputs: []
+        - heading: Already translated (es-ES)
+          comment: "[tags/technology/](https://overt-summit.cloudvent.net/tags/technology\
+            /)"
+          inputs: []
+urlTranslation: tags/technology/index.html
