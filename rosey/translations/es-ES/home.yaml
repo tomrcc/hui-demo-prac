@@ -7,13 +7,13 @@ _inputs:
       groups:
         - heading: Still to translate (es-ES)
           comment: "[index.html](https://overt-summit.cloudvent.net/index.html)"
-          inputs:
-            - Try-This-Free
-            - rcc-markdown:With-Sendit-you-can-quickly-create-beautiful-rich-emails-that-capture-a-reader's-attention-engage-them-and-convert-them-into-customers%2E
+          inputs: []
         - heading: Already translated (es-ES)
           comment: "[index.html](https://overt-summit.cloudvent.net/index.html)"
           inputs:
             - Beautiful-email-campaigns
+            - Try-This-Free
+            - rcc-markdown:With-Sendit-you-can-quickly-create-beautiful-rich-emails-that-capture-a-reader's-attention-engage-them-and-convert-them-into-customers%2E
   Beautiful-email-campaigns:
     label: Beautiful email campaigns
     hidden: false

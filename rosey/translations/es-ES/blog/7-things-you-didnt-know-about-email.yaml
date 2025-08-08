@@ -9,16 +9,16 @@ _inputs:
         - heading: Still to translate (es-ES)
           comment: "[blog/7-things-you-didnt-know-about-email/](https://overt-summit.clou\
             dvent.net/blog/7-things-you-didnt-know-about-email/)"
+          inputs: []
+        - heading: Already translated (es-ES)
+          comment: "[blog/7-things-you-didnt-know-about-email/](https://overt-summit.clou\
+            dvent.net/blog/7-things-you-didnt-know-about-email/)"
           inputs:
             - 7-things-you-didn't-know-about-email
             - rcc-markdown:Send-your-best-email
             - rcc-markdown:So-remember-to-keep-this-in-mind-and-to-always-know-that-if-you-are-sending-out-emails-related-to-your-business-be-sure-to-follow-up-with-customers-or-clients-and-make-sure-that-they-are-getting-their-emails-in-a-timely-manner%2E
             - rcc-markdown:This-is-a-practice-run-for-the-demo%2E
             - rcc-markdown:Tracking
-        - heading: Already translated (es-ES)
-          comment: "[blog/7-things-you-didnt-know-about-email/](https://overt-summit.clou\
-            dvent.net/blog/7-things-you-didnt-know-about-email/)"
-          inputs: []
   7-things-you-didn't-know-about-email:
     label: 7 things you didn't know about email
     hidden: false
