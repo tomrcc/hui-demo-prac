@@ -122,8 +122,16 @@ _inputs:
       about-email/#:~:text=Tracking)"
     context: {}
 urlTranslation: blog/7-things-you-didnt-know-about-email/index.html
-7-things-you-didn't-know-about-email: ""
-rcc-markdown:Send-your-best-email: ""
-rcc-markdown:So-remember-to-keep-this-in-mind-and-to-always-know-that-if-you-are-sending-out-emails-related-to-your-business-be-sure-to-follow-up-with-customers-or-clients-and-make-sure-that-they-are-getting-their-emails-in-a-timely-manner%2E: ""
-rcc-markdown:This-is-a-practice-run-for-the-demo%2E: ""
-rcc-markdown:Tracking: ""
+7-things-you-didn't-know-about-email: |
+  7 cosas que no sabías sobre el correo electrónico
+rcc-markdown:Send-your-best-email: |
+  Envía tu mejor correo electrónico
+rcc-markdown:So-remember-to-keep-this-in-mind-and-to-always-know-that-if-you-are-sending-out-emails-related-to-your-business-be-sure-to-follow-up-with-customers-or-clients-and-make-sure-that-they-are-getting-their-emails-in-a-timely-manner%2E: >
+  Por lo tanto, recuerde tener esto en cuenta y saber siempre que si está
+  enviando correos electrónicos relacionados con su negocio, asegúrese de hacer
+  un seguimiento de los clientes y asegúrese de que reciban sus correos
+  electrónicos de manera oportuna.
+rcc-markdown:This-is-a-practice-run-for-the-demo%2E: |
+  Esta es una práctica para la demostración.
+rcc-markdown:Tracking: |
+  Seguimiento

@@ -112,7 +112,22 @@ _inputs:
         folders instead of their inboxes? To make sure your emails reach their
         recipients successfully, follow these email delivery tips.
 urlTranslation: blog/5-things-to-improve-your-email-templates/index.html
-5-things-to-improve-your-email-templates: ""
-rcc-markdown:Use-an-ESP: ""
-rcc-markdown:Use-an-email-service-provider-(ESP)-that-has-been-tested-by-third-party-email-certification-services%2E-This-ensures-that-your-emails-will-be-accepted-by-the-major-ISPs%2E-An-ESP-that-offers-multiple-IP-addresses-or-one-that-allows-you-to-use-your-own-IP-address-if-necessary%2E-ISPs-often-block-messages-from-unknown-senders-so-having-your-own-IP-address-helps-get-around-this-issue%2E: ""
-rcc-markdown:When-you-send-an-email-campaign-you-expect-it-to-reach-your-readers-right-But-what-if-the-emails-go-straight-to-your-subscribers'-spam-folders-instead-of-their-inboxes-To-make-sure-your-emails-reach-their-recipients-successfully-follow-these-email-delivery-tips%2E: ""
+5-things-to-improve-your-email-templates: |
+  5 cosas para mejorar tus plantillas de correo electrónico
+rcc-markdown:Use-an-ESP: |
+  Usa un ESP
+rcc-markdown:Use-an-email-service-provider-(ESP)-that-has-been-tested-by-third-party-email-certification-services%2E-This-ensures-that-your-emails-will-be-accepted-by-the-major-ISPs%2E-An-ESP-that-offers-multiple-IP-addresses-or-one-that-allows-you-to-use-your-own-IP-address-if-necessary%2E-ISPs-often-block-messages-from-unknown-senders-so-having-your-own-IP-address-helps-get-around-this-issue%2E: >
+  Utilice un proveedor de servicios de correo electrónico (ESP) que haya sido
+  probado por servicios de certificación de correo electrónico de terceros. Esto
+  asegura que sus correos electrónicos serán aceptados por los principales ISP.
+  Un ESP que ofrece varias direcciones IP o uno que le permite usar su propia
+  dirección IP si es necesario. Los ISP a menudo bloquean los mensajes de
+  remitentes desconocidos, por lo que tener su propia dirección IP ayuda a
+  solucionar este problema.
+rcc-markdown:When-you-send-an-email-campaign-you-expect-it-to-reach-your-readers-right-But-what-if-the-emails-go-straight-to-your-subscribers'-spam-folders-instead-of-their-inboxes-To-make-sure-your-emails-reach-their-recipients-successfully-follow-these-email-delivery-tips%2E: >
+  Cuando envías una campaña de correo electrónico, esperas que llegue a tus
+  lectores, ¿verdad? Pero, ¿qué pasa si los correos electrónicos van
+  directamente a las carpetas de spam de sus suscriptores en lugar de a sus
+  bandejas de entrada? Para asegurarse de que sus correos electrónicos lleguen a
+  sus destinatarios con éxito, siga estos consejos de entrega de correo
+  electrónico.

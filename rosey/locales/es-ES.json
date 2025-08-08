@@ -1,11 +1,11 @@
 {
 	"5-things-to-improve-your-email-templates": {
 		"original": "5 things to improve your email templates",
-		"value": "5 things to improve your email templates"
+		"value": "5 cosas para mejorar tus plantillas de correo electrónico\n"
 	},
 	"7-things-you-didn't-know-about-email": {
 		"original": "7 things you didn't know about email",
-		"value": "7 things you didn't know about email"
+		"value": "7 cosas que no sabías sobre el correo electrónico\n"
 	},
 	"Beautiful-email-campaigns": {
 		"original": "Beautiful email campaigns",
@@ -13,7 +13,7 @@
 	},
 	"Try-This-Free": {
 		"original": "Try This Free",
-		"value": "Try This Free"
+		"value": "Prueba esto gratis\n"
 	},
 	"common:About": {
 		"original": "About",
@@ -21,82 +21,82 @@
 	},
 	"common:All-Articles": {
 		"original": "All Articles",
-		"value": "All Articles"
+		"value": "Todos los artículos\n"
 	},
 	"common:Blog": {
 		"original": "Blog",
-		"value": "Blog"
+		"value": "Blog\n"
 	},
 	"common:Contact": {
 		"original": "Contact",
-		"value": "Contact"
+		"value": "Contacto\n"
 	},
 	"common:Features": {
 		"original": "Features",
-		"value": "Features"
+		"value": "Funciones\n"
 	},
 	"common:Get-Started": {
 		"original": "Get Started",
-		"value": "Get Started"
+		"value": "Comenzar\n"
 	},
 	"common:Home": {
 		"original": "Home",
-		"value": "Home"
+		"value": "Hogar\n"
 	},
 	"common:Marketing": {
 		"original": "Marketing",
-		"value": "Marketing"
+		"value": "Marketing\n"
 	},
 	"common:Pricing": {
 		"original": "Pricing",
-		"value": "Pricing"
+		"value": "Precios\n"
 	},
 	"common:Technology": {
 		"original": "Technology",
-		"value": "Technology"
+		"value": "Tecnología\n"
 	},
 	"common:minutes": {
 		"original": "minutes",
-		"value": "minutes"
+		"value": "acta\n"
 	},
 	"common:recent-blog": {
 		"original": "Recent Blog",
-		"value": "Recent Blog"
+		"value": "Blog reciente\n"
 	},
 	"common:words": {
 		"original": "words",
-		"value": "words"
+		"value": "palabras\n"
 	},
 	"rcc-markdown:Send-your-best-email": {
 		"original": "Send your best email",
-		"value": "Send your best email"
+		"value": "Envía tu mejor correo electrónico\n"
 	},
 	"rcc-markdown:So-remember-to-keep-this-in-mind-and-to-always-know-that-if-you-are-sending-out-emails-related-to-your-business-be-sure-to-follow-up-with-customers-or-clients-and-make-sure-that-they-are-getting-their-emails-in-a-timely-manner%2E": {
 		"original": "So, remember to keep this in mind and to always know that if you are sending out emails related to your business, be sure to follow-up with customers or clients and make sure that they are getting their emails in a timely manner.",
-		"value": "So, remember to keep this in mind and to always know that if you are sending out emails related to your business, be sure to follow-up with customers or clients and make sure that they are getting their emails in a timely manner."
+		"value": "Por lo tanto, recuerde tener esto en cuenta y saber siempre que si está enviando correos electrónicos relacionados con su negocio, asegúrese de hacer un seguimiento de los clientes y asegúrese de que reciban sus correos electrónicos de manera oportuna.\n"
 	},
 	"rcc-markdown:This-is-a-practice-run-for-the-demo%2E": {
 		"original": "This is a practice run for the demo.",
-		"value": "This is a practice run for the demo."
+		"value": "Esta es una práctica para la demostración.\n"
 	},
 	"rcc-markdown:Tracking": {
 		"original": "Tracking",
-		"value": "Tracking"
+		"value": "Seguimiento\n"
 	},
 	"rcc-markdown:Use-an-ESP": {
 		"original": "Use an ESP",
-		"value": "Use an ESP"
+		"value": "Usa un ESP\n"
 	},
 	"rcc-markdown:Use-an-email-service-provider-(ESP)-that-has-been-tested-by-third-party-email-certification-services%2E-This-ensures-that-your-emails-will-be-accepted-by-the-major-ISPs%2E-An-ESP-that-offers-multiple-IP-addresses-or-one-that-allows-you-to-use-your-own-IP-address-if-necessary%2E-ISPs-often-block-messages-from-unknown-senders-so-having-your-own-IP-address-helps-get-around-this-issue%2E": {
 		"original": "Use an email service provider (ESP) that has been tested by third-party email certification services. This ensures that your emails will be accepted by the major ISPs. An ESP that offers multiple IP addresses, or one that allows you to use your own IP address if necessary. ISPs often block messages from unknown senders, so having your own IP address helps get around this issue.",
-		"value": "Use an email service provider (ESP) that has been tested by third-party email certification services. This ensures that your emails will be accepted by the major ISPs. An ESP that offers multiple IP addresses, or one that allows you to use your own IP address if necessary. ISPs often block messages from unknown senders, so having your own IP address helps get around this issue."
+		"value": "Utilice un proveedor de servicios de correo electrónico (ESP) que haya sido probado por servicios de certificación de correo electrónico de terceros. Esto asegura que sus correos electrónicos serán aceptados por los principales ISP. Un ESP que ofrece varias direcciones IP o uno que le permite usar su propia dirección IP si es necesario. Los ISP a menudo bloquean los mensajes de remitentes desconocidos, por lo que tener su propia dirección IP ayuda a solucionar este problema.\n"
 	},
 	"rcc-markdown:When-you-send-an-email-campaign-you-expect-it-to-reach-your-readers-right-But-what-if-the-emails-go-straight-to-your-subscribers'-spam-folders-instead-of-their-inboxes-To-make-sure-your-emails-reach-their-recipients-successfully-follow-these-email-delivery-tips%2E": {
 		"original": "When you send an email campaign, you expect it to reach your readers, right? But what if the emails go straight to your subscribers’ spam folders instead of their inboxes? To make sure your emails reach their recipients successfully, follow these email delivery tips.",
-		"value": "When you send an email campaign, you expect it to reach your readers, right? But what if the emails go straight to your subscribers’ spam folders instead of their inboxes? To make sure your emails reach their recipients successfully, follow these email delivery tips."
+		"value": "Cuando envías una campaña de correo electrónico, esperas que llegue a tus lectores, ¿verdad? Pero, ¿qué pasa si los correos electrónicos van directamente a las carpetas de spam de sus suscriptores en lugar de a sus bandejas de entrada? Para asegurarse de que sus correos electrónicos lleguen a sus destinatarios con éxito, siga estos consejos de entrega de correo electrónico.\n"
 	},
 	"rcc-markdown:With-Sendit-you-can-quickly-create-beautiful-rich-emails-that-capture-a-reader's-attention-engage-them-and-convert-them-into-customers%2E": {
 		"original": "With Sendit, you can quickly create beautiful rich emails that capture a reader's attention, engage them, and convert them into customers.",
-		"value": "With Sendit, you can quickly create beautiful rich emails that capture a reader's attention, engage them, and convert them into customers."
+		"value": "Con Sendit, puedes crear rápidamente hermosos correos electrónicos enriquecidos que capten la atención de los lectores, los atraigan y los conviertan en clientes.\n"
 	}
 }
