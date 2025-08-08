@@ -11,20 +11,10 @@ _inputs:
             dvent.net/blog/7-things-you-didnt-know-about-email/)"
           inputs:
             - 7-things-you-didn't-know-about-email
-            - rcc-markdown:Be-aware-of-what's-normal-for-your-target-customers'-inboxes%2E-If-you're-sending-out-emails-to-people-who-are-on-Gmail-and-Yahoo-accounts-then-there's-little-chance-they'll-get-blocked-because-their-addresses-haven't-been-flagged-as-spam-yet%2E-But-if-you're-reaching-out-to-people-with-Outlook-or-AOL-addresses-there's-a-good-chance-your-message-will-get-flagged-as-junk-mail-and-end-up-in-their-spam-folder-before-they-ever-see-it%2E-Make-sure-you're-testing-different-types-of-addresses-before-sending-out-any-mass-marketing-campaigns%2E
-            - rcc-markdown:Before-you-send-out-any-campaign-using-an-email-marketing-tool-make-sure-that-you-have-permission-from-your-subscribers-to-send-them-emails%2E-You-can-do-this-by-asking-them-during-signup-or-including-a-checkbox-in-the-subscription-form-asking-if-they'd-like-to-receive-marketing-communications-from-you-in-the-future%2E
-            - rcc-markdown:Choose-a-reliable-ESP-that-allows-you-to-track-opens-and-clicks-so-you-can-figure-out-which-types-of-messages-work-best-for-your-audience%2E
-            - rcc-markdown:Double-opt-in
-            - rcc-markdown:Keep-your-content-short-and-sweet
             - rcc-markdown:Send-your-best-email
             - rcc-markdown:So-remember-to-keep-this-in-mind-and-to-always-know-that-if-you-are-sending-out-emails-related-to-your-business-be-sure-to-follow-up-with-customers-or-clients-and-make-sure-that-they-are-getting-their-emails-in-a-timely-manner%2E
+            - rcc-markdown:This-is-a-practice-run-for-the-demo%2E
             - rcc-markdown:Tracking
-            - rcc-markdown:Use-an-ESP
-            - rcc-markdown:Use-an-email-service-provider-(ESP)-that-has-been-tested-by-third-party-email-certification-services%2E-This-ensures-that-your-emails-will-be-accepted-by-the-major-ISPs%2E-An-ESP-that-offers-multiple-IP-addresses-or-one-that-allows-you-to-use-your-own-IP-address-if-necessary%2E-ISPs-often-block-messages-from-unknown-senders-so-having-your-own-IP-address-helps-get-around-this-issue%2E
-            - rcc-markdown:Use-double-opt-in-when-sending-out-marketing-emails%2E-This-means-that-the-recipient-must-have-previously-agreed-to-receive-emails-from-you-before-they-can-see-content-in-their-inboxes-or-on-their-mobile-devices%2E-This-helps-prevent-people-from-signing-up-for-newsletters-they-don't-want-and-can-help-protect-against-spam-complaints-from-users-who-didn't-know-they-had-signed-up-for-something-in-the-first-place%2E
-            - rcc-markdown:Use-images-sparingly-(if-at-all)%2E-You-might-be-tempted-to-include-an-image-in-every-email-you-send-out-but-it's-important-to-remember-that-images-can-cause-problems-when-it-comes-to-inbox-delivery-particularly-when-they're-used-incorrectly-or-included-in-bulk-emails-from-companies-where-the-receiver-doesn't-know-who-sent-them%2E-If-you're-going
-            - rcc-markdown:When-you-send-an-email-campaign-you-expect-it-to-reach-your-readers-right-But-what-if-the-emails-go-straight-to-your-subscribers'-spam-folders-instead-of-their-inboxes-To-make-sure-your-emails-reach-their-recipients-successfully-follow-these-email-delivery-tips%2E
-            - rcc-markdown:Your-customers-don't-want-to-read-lengthy-emails-full-of-text-so-keep-your-messages-short-and-sweet%2E-If-you-have-multiple-products-to-promote-break-up-each-product-offer-into-its-own-email-instead-of-sending-one-page-long-message-with-multiple-links-embedded-in-it%2E-That-way-customers-can-easily-find-what-they're-looking-for-without-having-to-scroll-all-over-the-page%2E
         - heading: Already translated (es-ES)
           comment: "[blog/7-things-you-didnt-know-about-email/](https://overt-summit.clou\
             dvent.net/blog/7-things-you-didnt-know-about-email/)"
@@ -37,140 +27,6 @@ _inputs:
     comment: "[See in
       context](https://overt-summit.cloudvent.net/blog/7-things-you-didnt-know-\
       about-email/#:~:text=7%20things%20you%20didn't%20know%20about%20email)"
-    context: {}
-  rcc-markdown:Be-aware-of-what's-normal-for-your-target-customers'-inboxes%2E-If-you're-sending-out-emails-to-people-who-are-on-Gmail-and-Yahoo-accounts-then-there's-little-chance-they'll-get-blocked-because-their-addresses-haven't-been-flagged-as-spam-yet%2E-But-if-you're-reaching-out-to-people-with-Outlook-or-AOL-addresses-there's-a-good-chance-your-message-will-get-flagged-as-junk-mail-and-end-up-in-their-spam-folder-before-they-ever-see-it%2E-Make-sure-you're-testing-different-types-of-addresses-before-sending-out-any-mass-marketing-campaigns%2E:
-    label: Be aware of what’s normal for your target ...
-    hidden: false
-    type: markdown
-    options:
-      bold: true
-      italic: true
-      strike: true
-      link: true
-      subscript: true
-      superscript: true
-      underline: true
-      code: true
-      undo: true
-      redo: true
-      removeformat: true
-      copyformatting: true
-    comment: "[See in
-      context](https://overt-summit.cloudvent.net/blog/7-things-you-didnt-know-\
-      about-email/#:~:text=Be%20aware%20of%20what%E2%80%99s,any%20mass%20market\
-      ing%20campaigns.)"
-    context:
-      open: false
-      title: Untranslated Text
-      icon: translate
-      content: >
-        Be aware of what’s normal for your target customers’ inboxes. If you’re
-        sending out emails to people who are on Gmail and Yahoo accounts, then
-        there’s little chance they’ll get blocked because their addresses
-        haven’t been flagged as spam yet. But if you’re reaching out to people
-        with Outlook or AOL addresses, there’s a good chance your message will
-        get flagged as junk mail and end up in their spam folder before they
-        ever see it. Make sure you’re testing different types of addresses
-        before sending out any mass marketing campaigns.
-  rcc-markdown:Before-you-send-out-any-campaign-using-an-email-marketing-tool-make-sure-that-you-have-permission-from-your-subscribers-to-send-them-emails%2E-You-can-do-this-by-asking-them-during-signup-or-including-a-checkbox-in-the-subscription-form-asking-if-they'd-like-to-receive-marketing-communications-from-you-in-the-future%2E:
-    label: Before you send out any campaign using an ...
-    hidden: false
-    type: markdown
-    options:
-      bold: true
-      italic: true
-      strike: true
-      link: true
-      subscript: true
-      superscript: true
-      underline: true
-      code: true
-      undo: true
-      redo: true
-      removeformat: true
-      copyformatting: true
-    comment: "[See in
-      context](https://overt-summit.cloudvent.net/blog/7-things-you-didnt-know-\
-      about-email/#:~:text=Before%20you%20send%20out,you%20in%20the%20future.)"
-    context:
-      open: false
-      title: Untranslated Text
-      icon: translate
-      content: >
-        Before you send out any campaign using an email marketing tool, make
-        sure that you have permission from your subscribers to send them emails.
-        You can do this by asking them during signup or including a checkbox in
-        the subscription form asking if they’d like to receive marketing
-        communications from you in the future.
-  rcc-markdown:Choose-a-reliable-ESP-that-allows-you-to-track-opens-and-clicks-so-you-can-figure-out-which-types-of-messages-work-best-for-your-audience%2E:
-    label: Choose a reliable ESP that allows you to t...
-    hidden: false
-    type: markdown
-    options:
-      bold: true
-      italic: true
-      strike: true
-      link: true
-      subscript: true
-      superscript: true
-      underline: true
-      code: true
-      undo: true
-      redo: true
-      removeformat: true
-      copyformatting: true
-    comment: "[See in
-      context](https://overt-summit.cloudvent.net/blog/7-things-you-didnt-know-\
-      about-email/#:~:text=Choose%20a%20reliable%20ESP,best%20for%20your%20audi\
-      ence.)"
-    context:
-      open: false
-      title: Untranslated Text
-      icon: translate
-      content: >
-        Choose a reliable ESP that allows you to track opens and clicks so you
-        can figure out which types of messages work best for your audience.
-  rcc-markdown:Double-opt-in:
-    label: Double opt-in
-    hidden: false
-    type: markdown
-    options:
-      bold: true
-      italic: true
-      strike: true
-      link: true
-      subscript: true
-      superscript: true
-      underline: true
-      code: true
-      undo: true
-      redo: true
-      removeformat: true
-      copyformatting: true
-    comment: "[See in
-      context](https://overt-summit.cloudvent.net/blog/7-things-you-didnt-know-\
-      about-email/#:~:text=Double%20opt%2Din)"
-    context: {}
-  rcc-markdown:Keep-your-content-short-and-sweet:
-    label: Keep your content short and sweet
-    hidden: false
-    type: markdown
-    options:
-      bold: true
-      italic: true
-      strike: true
-      link: true
-      subscript: true
-      superscript: true
-      underline: true
-      code: true
-      undo: true
-      redo: true
-      removeformat: true
-      copyformatting: true
-    comment: "[See in
-      context](https://overt-summit.cloudvent.net/blog/7-things-you-didnt-know-\
-      about-email/#:~:text=Keep%20your%20content%20short%20and%20sweet)"
     context: {}
   rcc-markdown:Send-your-best-email:
     label: Send your best email
@@ -223,6 +79,27 @@ _inputs:
         sending out emails related to your business, be sure to follow-up with
         customers or clients and make sure that they are getting their emails in
         a timely manner.
+  rcc-markdown:This-is-a-practice-run-for-the-demo%2E:
+    label: This is a practice run for the demo.
+    hidden: false
+    type: markdown
+    options:
+      bold: true
+      italic: true
+      strike: true
+      link: true
+      subscript: true
+      superscript: true
+      underline: true
+      code: true
+      undo: true
+      redo: true
+      removeformat: true
+      copyformatting: true
+    comment: "[See in
+      context](https://overt-summit.cloudvent.net/blog/7-things-you-didnt-know-\
+      about-email/#:~:text=This%20is%20a%20practice,run%20for%20the%20demo.)"
+    context: {}
   rcc-markdown:Tracking:
     label: Tracking
     hidden: false
@@ -244,197 +121,9 @@ _inputs:
       context](https://overt-summit.cloudvent.net/blog/7-things-you-didnt-know-\
       about-email/#:~:text=Tracking)"
     context: {}
-  rcc-markdown:Use-an-ESP:
-    label: Use an ESP
-    hidden: false
-    type: markdown
-    options:
-      bold: true
-      italic: true
-      strike: true
-      link: true
-      subscript: true
-      superscript: true
-      underline: true
-      code: true
-      undo: true
-      redo: true
-      removeformat: true
-      copyformatting: true
-    comment: "[See in
-      context](https://overt-summit.cloudvent.net/blog/7-things-you-didnt-know-\
-      about-email/#:~:text=Use%20an%20ESP)"
-    context: {}
-  rcc-markdown:Use-an-email-service-provider-(ESP)-that-has-been-tested-by-third-party-email-certification-services%2E-This-ensures-that-your-emails-will-be-accepted-by-the-major-ISPs%2E-An-ESP-that-offers-multiple-IP-addresses-or-one-that-allows-you-to-use-your-own-IP-address-if-necessary%2E-ISPs-often-block-messages-from-unknown-senders-so-having-your-own-IP-address-helps-get-around-this-issue%2E:
-    label: Use an email service provider (ESP) that h...
-    hidden: false
-    type: markdown
-    options:
-      bold: true
-      italic: true
-      strike: true
-      link: true
-      subscript: true
-      superscript: true
-      underline: true
-      code: true
-      undo: true
-      redo: true
-      removeformat: true
-      copyformatting: true
-    comment: "[See in
-      context](https://overt-summit.cloudvent.net/blog/7-things-you-didnt-know-\
-      about-email/#:~:text=Use%20an%20email%20service,get%20around%20this%20iss\
-      ue.)"
-    context:
-      open: false
-      title: Untranslated Text
-      icon: translate
-      content: >
-        Use an email service provider (ESP) that has been tested by third-party
-        email certification services. This ensures that your emails will be
-        accepted by the major ISPs. An ESP that offers multiple IP addresses, or
-        one that allows you to use your own IP address if necessary. ISPs often
-        block messages from unknown senders, so having your own IP address helps
-        get around this issue.
-  rcc-markdown:Use-double-opt-in-when-sending-out-marketing-emails%2E-This-means-that-the-recipient-must-have-previously-agreed-to-receive-emails-from-you-before-they-can-see-content-in-their-inboxes-or-on-their-mobile-devices%2E-This-helps-prevent-people-from-signing-up-for-newsletters-they-don't-want-and-can-help-protect-against-spam-complaints-from-users-who-didn't-know-they-had-signed-up-for-something-in-the-first-place%2E:
-    label: Use double opt-in when sending out marketi...
-    hidden: false
-    type: markdown
-    options:
-      bold: true
-      italic: true
-      strike: true
-      link: true
-      subscript: true
-      superscript: true
-      underline: true
-      code: true
-      undo: true
-      redo: true
-      removeformat: true
-      copyformatting: true
-    comment: "[See in
-      context](https://overt-summit.cloudvent.net/blog/7-things-you-didnt-know-\
-      about-email/#:~:text=Use%20double%20opt%2Din%20when,in%20the%20first%20pl\
-      ace.)"
-    context:
-      open: false
-      title: Untranslated Text
-      icon: translate
-      content: >
-        Use double opt-in when sending out marketing emails. This means that the
-        recipient must have previously agreed to receive emails from you before
-        they can see content in their inboxes or on their mobile devices. This
-        helps prevent people from signing up for newsletters they don’t want and
-        can help protect against spam complaints from users who didn’t know they
-        had signed up for something in the first place.
-  rcc-markdown:Use-images-sparingly-(if-at-all)%2E-You-might-be-tempted-to-include-an-image-in-every-email-you-send-out-but-it's-important-to-remember-that-images-can-cause-problems-when-it-comes-to-inbox-delivery-particularly-when-they're-used-incorrectly-or-included-in-bulk-emails-from-companies-where-the-receiver-doesn't-know-who-sent-them%2E-If-you're-going:
-    label: Use images sparingly (if at all). You migh...
-    hidden: false
-    type: markdown
-    options:
-      bold: true
-      italic: true
-      strike: true
-      link: true
-      subscript: true
-      superscript: true
-      underline: true
-      code: true
-      undo: true
-      redo: true
-      removeformat: true
-      copyformatting: true
-    comment: "[See in
-      context](https://overt-summit.cloudvent.net/blog/7-things-you-didnt-know-\
-      about-email/#:~:text=Use%20images%20sparingly%20(if,them.%20If%20you%E2%8\
-      0%99re%20going)"
-    context:
-      open: false
-      title: Untranslated Text
-      icon: translate
-      content: >
-        Use images sparingly (if at all). You might be tempted to include an
-        image in every email you send out, but it’s important to remember that
-        images can cause problems when it comes to inbox delivery — particularly
-        when they’re used incorrectly or included in bulk emails from companies
-        where the receiver doesn’t know who sent them. If you’re going
-  rcc-markdown:When-you-send-an-email-campaign-you-expect-it-to-reach-your-readers-right-But-what-if-the-emails-go-straight-to-your-subscribers'-spam-folders-instead-of-their-inboxes-To-make-sure-your-emails-reach-their-recipients-successfully-follow-these-email-delivery-tips%2E:
-    label: When you send an email campaign, you expec...
-    hidden: false
-    type: markdown
-    options:
-      bold: true
-      italic: true
-      strike: true
-      link: true
-      subscript: true
-      superscript: true
-      underline: true
-      code: true
-      undo: true
-      redo: true
-      removeformat: true
-      copyformatting: true
-    comment: "[See in
-      context](https://overt-summit.cloudvent.net/blog/7-things-you-didnt-know-\
-      about-email/#:~:text=When%20you%20send%20an,these%20email%20delivery%20ti\
-      ps.)"
-    context:
-      open: false
-      title: Untranslated Text
-      icon: translate
-      content: >
-        When you send an email campaign, you expect it to reach your readers,
-        right? But what if the emails go straight to your subscribers’ spam
-        folders instead of their inboxes? To make sure your emails reach their
-        recipients successfully, follow these email delivery tips.
-  rcc-markdown:Your-customers-don't-want-to-read-lengthy-emails-full-of-text-so-keep-your-messages-short-and-sweet%2E-If-you-have-multiple-products-to-promote-break-up-each-product-offer-into-its-own-email-instead-of-sending-one-page-long-message-with-multiple-links-embedded-in-it%2E-That-way-customers-can-easily-find-what-they're-looking-for-without-having-to-scroll-all-over-the-page%2E:
-    label: Your customers don’t want to read lengthy ...
-    hidden: false
-    type: markdown
-    options:
-      bold: true
-      italic: true
-      strike: true
-      link: true
-      subscript: true
-      superscript: true
-      underline: true
-      code: true
-      undo: true
-      redo: true
-      removeformat: true
-      copyformatting: true
-    comment: "[See in
-      context](https://overt-summit.cloudvent.net/blog/7-things-you-didnt-know-\
-      about-email/#:~:text=Your%20customers%20don%E2%80%99t%20want,all%20over%2\
-      0the%20page.)"
-    context:
-      open: false
-      title: Untranslated Text
-      icon: translate
-      content: >
-        Your customers don’t want to read lengthy emails full of text, so keep
-        your messages short and sweet. If you have multiple products to promote,
-        break up each product offer into its own email instead of sending one
-        page-long message with multiple links embedded in it. That way,
-        customers can easily find what they’re looking for without having to
-        scroll all over the page.
 urlTranslation: blog/7-things-you-didnt-know-about-email/index.html
 7-things-you-didn't-know-about-email: ""
-rcc-markdown:Be-aware-of-what's-normal-for-your-target-customers'-inboxes%2E-If-you're-sending-out-emails-to-people-who-are-on-Gmail-and-Yahoo-accounts-then-there's-little-chance-they'll-get-blocked-because-their-addresses-haven't-been-flagged-as-spam-yet%2E-But-if-you're-reaching-out-to-people-with-Outlook-or-AOL-addresses-there's-a-good-chance-your-message-will-get-flagged-as-junk-mail-and-end-up-in-their-spam-folder-before-they-ever-see-it%2E-Make-sure-you're-testing-different-types-of-addresses-before-sending-out-any-mass-marketing-campaigns%2E: ""
-rcc-markdown:Before-you-send-out-any-campaign-using-an-email-marketing-tool-make-sure-that-you-have-permission-from-your-subscribers-to-send-them-emails%2E-You-can-do-this-by-asking-them-during-signup-or-including-a-checkbox-in-the-subscription-form-asking-if-they'd-like-to-receive-marketing-communications-from-you-in-the-future%2E: ""
-rcc-markdown:Choose-a-reliable-ESP-that-allows-you-to-track-opens-and-clicks-so-you-can-figure-out-which-types-of-messages-work-best-for-your-audience%2E: ""
-rcc-markdown:Double-opt-in: ""
-rcc-markdown:Keep-your-content-short-and-sweet: ""
 rcc-markdown:Send-your-best-email: ""
 rcc-markdown:So-remember-to-keep-this-in-mind-and-to-always-know-that-if-you-are-sending-out-emails-related-to-your-business-be-sure-to-follow-up-with-customers-or-clients-and-make-sure-that-they-are-getting-their-emails-in-a-timely-manner%2E: ""
+rcc-markdown:This-is-a-practice-run-for-the-demo%2E: ""
 rcc-markdown:Tracking: ""
-rcc-markdown:Use-an-ESP: ""
-rcc-markdown:Use-an-email-service-provider-(ESP)-that-has-been-tested-by-third-party-email-certification-services%2E-This-ensures-that-your-emails-will-be-accepted-by-the-major-ISPs%2E-An-ESP-that-offers-multiple-IP-addresses-or-one-that-allows-you-to-use-your-own-IP-address-if-necessary%2E-ISPs-often-block-messages-from-unknown-senders-so-having-your-own-IP-address-helps-get-around-this-issue%2E: ""
-rcc-markdown:Use-double-opt-in-when-sending-out-marketing-emails%2E-This-means-that-the-recipient-must-have-previously-agreed-to-receive-emails-from-you-before-they-can-see-content-in-their-inboxes-or-on-their-mobile-devices%2E-This-helps-prevent-people-from-signing-up-for-newsletters-they-don't-want-and-can-help-protect-against-spam-complaints-from-users-who-didn't-know-they-had-signed-up-for-something-in-the-first-place%2E: ""
-rcc-markdown:Use-images-sparingly-(if-at-all)%2E-You-might-be-tempted-to-include-an-image-in-every-email-you-send-out-but-it's-important-to-remember-that-images-can-cause-problems-when-it-comes-to-inbox-delivery-particularly-when-they're-used-incorrectly-or-included-in-bulk-emails-from-companies-where-the-receiver-doesn't-know-who-sent-them%2E-If-you're-going: ""
-rcc-markdown:When-you-send-an-email-campaign-you-expect-it-to-reach-your-readers-right-But-what-if-the-emails-go-straight-to-your-subscribers'-spam-folders-instead-of-their-inboxes-To-make-sure-your-emails-reach-their-recipients-successfully-follow-these-email-delivery-tips%2E: ""
-rcc-markdown:Your-customers-don't-want-to-read-lengthy-emails-full-of-text-so-keep-your-messages-short-and-sweet%2E-If-you-have-multiple-products-to-promote-break-up-each-product-offer-into-its-own-email-instead-of-sending-one-page-long-message-with-multiple-links-embedded-in-it%2E-That-way-customers-can-easily-find-what-they're-looking-for-without-having-to-scroll-all-over-the-page%2E: ""
